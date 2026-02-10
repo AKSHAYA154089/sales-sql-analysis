@@ -1,4 +1,4 @@
-# Sales Data Analysis using MySQL
+# Sales Data Analysis using MySQL.
 
 ## 📌 Project Overview
 This project performs sales data analysis using MySQL. The dataset contains product sales, order details, customer addresses, and order dates. The project focuses on data cleaning, transformation, and business insights generation.
